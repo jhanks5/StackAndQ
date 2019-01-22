@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1541039744 source:c:\users\quick\onedrive\documents\school\data structures fall 2018\stackandqueueimplementation\src\stack.cpp
+	<iostream>
+	"Stack.h"
+
+1540936027 c:\users\quick\onedrive\documents\school\data structures fall 2018\stackandqueueimplementation\include\stack.h
+	<iostream>
+
+1541040027 source:c:\users\quick\onedrive\documents\school\data structures fall 2018\stackandqueueimplementation\main.cpp
+	<iostream>
+	"Stack.h"
+	"Queue.h"
+
+1541039744 c:\users\quick\onedrive\documents\school\data structures fall 2018\stackandqueueimplementation\include\queue.h
+	<iostream>
+
+1541039946 source:c:\users\quick\onedrive\documents\school\data structures fall 2018\stackandqueueimplementation\src\queue.cpp
+	<iostream>
+	"Queue.h"
+
